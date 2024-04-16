@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year master's student at MBZUAI majoring in Machine Learning. My bachelor's degree is from Peking University, and I am majoring in Computer Science. My research interest includes computer vision, machine learning, and dataset distillation.
+I am a first-year master's student at MBZUAI majoring in Machine Learning. My bachelor's degree is from Peking University, majored in Computer Science. My research interest includes computer vision, machine learning, and dataset distillation.
 
 I am very fortunate to be advised by Dr. Zhiqiang Shen(https://zhiqiangshen.com/) from the Machine Learning Department of MBZUAI(https://mbzuai.ac.ae/). 
 
