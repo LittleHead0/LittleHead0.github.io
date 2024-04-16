@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Muxin Zhou"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,5 +15,5 @@ You can find my CV here: [Muxin's Resume](./assets/MuxinZhou_Resume.pdf)
 
 [Email](muxin.zhou@mbzuai.ac.ae) / [Github](https://github.com/LittleHead0) 
 
-## Projects
-#### Self-supervised Compression framework for Dataset Distillation
+# Projects
+## Self-supervised Compression framework for Dataset Distillation
