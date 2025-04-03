@@ -5,7 +5,7 @@ permalink: https://arxiv.org/abs/2404.07976
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024
 venue: 'Journal 1'
-paperurl: https://arxiv.org/abs/2404.07976
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: Zhou, M., Yin, Z., Shao, S., & Shen, Z. (2024). Self-supervised dataset distillation: A good compression is all you need. arXiv preprint arXiv:2404.07976.
 ---
 
