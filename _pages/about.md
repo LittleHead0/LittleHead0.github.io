@@ -13,7 +13,7 @@ I feel honored to be advised by Prof. Dezhen Song and Dr. Gus Xia at Mohamed bin
 You can find my [CV](./assets/MuxinZhou_Resume.pdf) here.
 
 
-[Email](muxin.zhou@mbzuai.ac.ae) / [Github](https://github.com/LittleHead0) 
+Email: muxin dot zhou@mbzuai dot ac dot ae / [Github](https://github.com/LittleHead0) 
 
 # Projects
 ## [Self-supervised Dataset Distillation: A Good Compression Is All You Need](https://arxiv.org/abs/2404.07976)
